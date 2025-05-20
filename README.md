@@ -117,6 +117,10 @@ This project sharpened my skills in:
 
 ---
 
+## 🖼️ Screenshots
+
+![Router Top Block](Docs/router_top.png)
+
 ## 🏷️ Tags
 
 `verilog` `vlsi` `router` `xilinx` `hdl` `rtl` `testbench` `fsm` `fifo` `digital-logic` `synchronous-design`
