@@ -89,6 +89,7 @@ Each destination has a dedicated FIFO:
 
 ```
 Router-1x3/
+├── Docs/        # Screenshots
 ├── rtl/         # RTL modules (.v files)
 ├── tb/          # Testbench files
 └── README.md
