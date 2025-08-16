@@ -155,6 +155,5 @@ This project sharpened my skills in:
 
 ## 🙋‍♂️ Author
 
-**Hithaishi S R**  
-Aspiring VLSI Design & Verification Engineer  
+**Hithaishi S R** 
 🔗 [LinkedIn](https://linkedin.com/in/hithaishisr)
